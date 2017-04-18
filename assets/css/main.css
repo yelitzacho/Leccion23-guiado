@@ -6,6 +6,7 @@ body{
 .contenedor{
 	margin: 0;
 	padding: 0;
+	position: relative;
 }
 
 .caja{
@@ -19,6 +20,8 @@ body{
 
 #azul{
 	background: #2B7DB9;
+	position: relative;
+	left: 200px;
 }
 
 #verde{
